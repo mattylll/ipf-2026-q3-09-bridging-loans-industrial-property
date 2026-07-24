@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/ipf-2026-q3-09-bridging-loans-industrial-property/sitemap.xml
